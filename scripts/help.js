@@ -71,9 +71,9 @@ module.exports = {
             message += '╭────────────◊\n';
             message += `│ » Total commands: ${totalCommands}\n`;
             message += '│ » A Powerful Telegram bot\n';
-            message += '│ » By Eijah & JARiF\n';
+            message += '│ » By UPoL🐔\n';
             message += '╰────────◊\n';
-            message += '「 Annie Bot 」';
+            message += '「 NAXO V1 」';
 
             bot.sendMessage(chatId, message);
         } else {
